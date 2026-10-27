@@ -1,2 +1,8 @@
 # myrep
-git repo practice
+## updated
+### new update
+- new
+- hello
+- new
+
+
